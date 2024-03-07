@@ -1,0 +1,7 @@
+# OS-specific files
+.DS_Store  
+Thumbs.db
+.Spotlight-V100
+
+# Build Output / Artifacts
+node_modules/
